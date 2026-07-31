@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Bhakti6377/Leetcode-/tree/master/0049-group-anagrams) |
 | [0055-jump-game](https://github.com/Bhakti6377/Leetcode-/tree/master/0055-jump-game) |
 | [0088-merge-sorted-array](https://github.com/Bhakti6377/Leetcode-/tree/master/0088-merge-sorted-array) |
+| [0139-word-break](https://github.com/Bhakti6377/Leetcode-/tree/master/0139-word-break) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Bhakti6377/Leetcode-/tree/master/0628-maximum-product-of-three-numbers) |
 | [0912-sort-an-array](https://github.com/Bhakti6377/Leetcode-/tree/master/0912-sort-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Bhakti6377/Leetcode-/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Bhakti6377/Leetcode-/tree/master/0013-roman-to-integer) |
 | [0049-group-anagrams](https://github.com/Bhakti6377/Leetcode-/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/Bhakti6377/Leetcode-/tree/master/0058-length-of-last-word) |
+| [0139-word-break](https://github.com/Bhakti6377/Leetcode-/tree/master/0139-word-break) |
 | [0151-reverse-words-in-a-string](https://github.com/Bhakti6377/Leetcode-/tree/master/0151-reverse-words-in-a-string) |
 | [0520-detect-capital](https://github.com/Bhakti6377/Leetcode-/tree/master/0520-detect-capital) |
 ## Hash Table
@@ -108,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Bhakti6377/Leetcode-/tree/master/0013-roman-to-integer) |
 | [0036-valid-sudoku](https://github.com/Bhakti6377/Leetcode-/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/Bhakti6377/Leetcode-/tree/master/0049-group-anagrams) |
+| [0139-word-break](https://github.com/Bhakti6377/Leetcode-/tree/master/0139-word-break) |
 ## Binary Search
 |  |
 | ------- |
@@ -117,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0055-jump-game](https://github.com/Bhakti6377/Leetcode-/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/Bhakti6377/Leetcode-/tree/master/0070-climbing-stairs) |
+| [0139-word-break](https://github.com/Bhakti6377/Leetcode-/tree/master/0139-word-break) |
 | [0357-count-numbers-with-unique-digits](https://github.com/Bhakti6377/Leetcode-/tree/master/0357-count-numbers-with-unique-digits) |
 ## Backtracking
 |  |
@@ -130,8 +134,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Bhakti6377/Leetcode-/tree/master/0070-climbing-stairs) |
+| [0139-word-break](https://github.com/Bhakti6377/Leetcode-/tree/master/0139-word-break) |
 ## Greedy
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/Bhakti6377/Leetcode-/tree/master/0055-jump-game) |
+## Trie
+|  |
+| ------- |
+| [0139-word-break](https://github.com/Bhakti6377/Leetcode-/tree/master/0139-word-break) |
 <!---LeetCode Topics End-->
