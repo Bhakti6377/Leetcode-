@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Bhakti6377/Leetcode-/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/Bhakti6377/Leetcode-/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Bhakti6377/Leetcode-/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/Bhakti6377/Leetcode-/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/Bhakti6377/Leetcode-/tree/master/3536-maximum-product-of-two-digits) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Bhakti6377/Leetcode-/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Bhakti6377/Leetcode-/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Bhakti6377/Leetcode-/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/Bhakti6377/Leetcode-/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Bhakti6377/Leetcode-/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Bhakti6377/Leetcode-/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Simulation
@@ -114,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/Bhakti6377/Leetcode-/tree/master/0151-reverse-words-in-a-string) |
 | [0520-detect-capital](https://github.com/Bhakti6377/Leetcode-/tree/master/0520-detect-capital) |
 | [0680-valid-palindrome-ii](https://github.com/Bhakti6377/Leetcode-/tree/master/0680-valid-palindrome-ii) |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/Bhakti6377/Leetcode-/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -143,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Bhakti6377/Leetcode-/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0357-count-numbers-with-unique-digits](https://github.com/Bhakti6377/Leetcode-/tree/master/0357-count-numbers-with-unique-digits) |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/Bhakti6377/Leetcode-/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Matrix
 |  |
 | ------- |
@@ -157,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0055-jump-game](https://github.com/Bhakti6377/Leetcode-/tree/master/0055-jump-game) |
 | [0680-valid-palindrome-ii](https://github.com/Bhakti6377/Leetcode-/tree/master/0680-valid-palindrome-ii) |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/Bhakti6377/Leetcode-/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Trie
 |  |
 | ------- |
