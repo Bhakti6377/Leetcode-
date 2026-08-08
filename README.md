@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/Bhakti6377/Leetcode-/tree/master/0151-reverse-words-in-a-string) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Bhakti6377/Leetcode-/tree/master/0160-intersection-of-two-linked-lists) |
 | [0680-valid-palindrome-ii](https://github.com/Bhakti6377/Leetcode-/tree/master/0680-valid-palindrome-ii) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Bhakti6377/Leetcode-/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Bhakti6377/Leetcode-/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Sorting
 |  |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/Bhakti6377/Leetcode-/tree/master/0151-reverse-words-in-a-string) |
 | [0520-detect-capital](https://github.com/Bhakti6377/Leetcode-/tree/master/0520-detect-capital) |
 | [0680-valid-palindrome-ii](https://github.com/Bhakti6377/Leetcode-/tree/master/0680-valid-palindrome-ii) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Bhakti6377/Leetcode-/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Bhakti6377/Leetcode-/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Hash Table
 |  |
@@ -144,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/Bhakti6377/Leetcode-/tree/master/0070-climbing-stairs) |
 | [0139-word-break](https://github.com/Bhakti6377/Leetcode-/tree/master/0139-word-break) |
 | [0357-count-numbers-with-unique-digits](https://github.com/Bhakti6377/Leetcode-/tree/master/0357-count-numbers-with-unique-digits) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Bhakti6377/Leetcode-/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Backtracking
 |  |
 | ------- |
@@ -164,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0055-jump-game](https://github.com/Bhakti6377/Leetcode-/tree/master/0055-jump-game) |
 | [0680-valid-palindrome-ii](https://github.com/Bhakti6377/Leetcode-/tree/master/0680-valid-palindrome-ii) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Bhakti6377/Leetcode-/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Bhakti6377/Leetcode-/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Trie
 |  |
