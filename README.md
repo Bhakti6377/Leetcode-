@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/Bhakti6377/Leetcode-/tree/master/0219-contains-duplicate-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Bhakti6377/Leetcode-/tree/master/0628-maximum-product-of-three-numbers) |
 | [0912-sort-an-array](https://github.com/Bhakti6377/Leetcode-/tree/master/0912-sort-an-array) |
+| [1140-stone-game-ii](https://github.com/Bhakti6377/Leetcode-/tree/master/1140-stone-game-ii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Bhakti6377/Leetcode-/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Bhakti6377/Leetcode-/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3731-find-missing-elements](https://github.com/Bhakti6377/Leetcode-/tree/master/3731-find-missing-elements) |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/Bhakti6377/Leetcode-/tree/master/0070-climbing-stairs) |
 | [0357-count-numbers-with-unique-digits](https://github.com/Bhakti6377/Leetcode-/tree/master/0357-count-numbers-with-unique-digits) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Bhakti6377/Leetcode-/tree/master/0628-maximum-product-of-three-numbers) |
+| [1140-stone-game-ii](https://github.com/Bhakti6377/Leetcode-/tree/master/1140-stone-game-ii) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Bhakti6377/Leetcode-/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/Bhakti6377/Leetcode-/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Bhakti6377/Leetcode-/tree/master/3345-smallest-divisible-digit-product-i) |
@@ -146,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/Bhakti6377/Leetcode-/tree/master/0070-climbing-stairs) |
 | [0139-word-break](https://github.com/Bhakti6377/Leetcode-/tree/master/0139-word-break) |
 | [0357-count-numbers-with-unique-digits](https://github.com/Bhakti6377/Leetcode-/tree/master/0357-count-numbers-with-unique-digits) |
+| [1140-stone-game-ii](https://github.com/Bhakti6377/Leetcode-/tree/master/1140-stone-game-ii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Bhakti6377/Leetcode-/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Backtracking
 |  |
@@ -193,4 +196,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Bhakti6377/Leetcode-/tree/master/3345-smallest-divisible-digit-product-i) |
+## Minimax
+|  |
+| ------- |
+| [1140-stone-game-ii](https://github.com/Bhakti6377/Leetcode-/tree/master/1140-stone-game-ii) |
+## Prefix Sum
+|  |
+| ------- |
+| [1140-stone-game-ii](https://github.com/Bhakti6377/Leetcode-/tree/master/1140-stone-game-ii) |
+## Game Theory
+|  |
+| ------- |
+| [1140-stone-game-ii](https://github.com/Bhakti6377/Leetcode-/tree/master/1140-stone-game-ii) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [1140-stone-game-ii](https://github.com/Bhakti6377/Leetcode-/tree/master/1140-stone-game-ii) |
 <!---LeetCode Topics End-->
