@@ -125,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0520-detect-capital](https://github.com/Bhakti6377/Leetcode-/tree/master/0520-detect-capital) |
 | [0680-valid-palindrome-ii](https://github.com/Bhakti6377/Leetcode-/tree/master/0680-valid-palindrome-ii) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Bhakti6377/Leetcode-/tree/master/2213-longest-substring-of-one-repeating-character) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/Bhakti6377/Leetcode-/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Bhakti6377/Leetcode-/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Bhakti6377/Leetcode-/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Hash Table
@@ -141,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Bhakti6377/Leetcode-/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Bhakti6377/Leetcode-/tree/master/0219-contains-duplicate-ii) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Bhakti6377/Leetcode-/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/Bhakti6377/Leetcode-/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3731-find-missing-elements](https://github.com/Bhakti6377/Leetcode-/tree/master/3731-find-missing-elements) |
 ## Binary Search
 |  |
@@ -185,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/Bhakti6377/Leetcode-/tree/master/0219-contains-duplicate-ii) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/Bhakti6377/Leetcode-/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Depth-First Search
 |  |
 | ------- |
