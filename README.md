@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/Bhakti6377/Leetcode-/tree/master/1140-stone-game-ii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Bhakti6377/Leetcode-/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Bhakti6377/Leetcode-/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2029-stone-game-ix](https://github.com/Bhakti6377/Leetcode-/tree/master/2029-stone-game-ix) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Bhakti6377/Leetcode-/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Bhakti6377/Leetcode-/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Bhakti6377/Leetcode-/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/Bhakti6377/Leetcode-/tree/master/0628-maximum-product-of-three-numbers) |
 | [1140-stone-game-ii](https://github.com/Bhakti6377/Leetcode-/tree/master/1140-stone-game-ii) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Bhakti6377/Leetcode-/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2029-stone-game-ix](https://github.com/Bhakti6377/Leetcode-/tree/master/2029-stone-game-ix) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/Bhakti6377/Leetcode-/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Bhakti6377/Leetcode-/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Bhakti6377/Leetcode-/tree/master/3348-smallest-divisible-digit-product-ii) |
@@ -100,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0912-sort-an-array](https://github.com/Bhakti6377/Leetcode-/tree/master/0912-sort-an-array) |
+| [2029-stone-game-ix](https://github.com/Bhakti6377/Leetcode-/tree/master/2029-stone-game-ix) |
 ## Linked List
 |  |
 | ------- |
@@ -178,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0055-jump-game](https://github.com/Bhakti6377/Leetcode-/tree/master/0055-jump-game) |
 | [0680-valid-palindrome-ii](https://github.com/Bhakti6377/Leetcode-/tree/master/0680-valid-palindrome-ii) |
+| [2029-stone-game-ix](https://github.com/Bhakti6377/Leetcode-/tree/master/2029-stone-game-ix) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Bhakti6377/Leetcode-/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Bhakti6377/Leetcode-/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Trie
@@ -209,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/Bhakti6377/Leetcode-/tree/master/1140-stone-game-ii) |
+| [2029-stone-game-ix](https://github.com/Bhakti6377/Leetcode-/tree/master/2029-stone-game-ix) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -217,10 +222,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/Bhakti6377/Leetcode-/tree/master/1140-stone-game-ii) |
+| [2029-stone-game-ix](https://github.com/Bhakti6377/Leetcode-/tree/master/2029-stone-game-ix) |
 ## Zero-Sum Game
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/Bhakti6377/Leetcode-/tree/master/1140-stone-game-ii) |
+| [2029-stone-game-ix](https://github.com/Bhakti6377/Leetcode-/tree/master/2029-stone-game-ix) |
 ## Segment Tree
 |  |
 | ------- |
@@ -233,4 +240,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Bhakti6377/Leetcode-/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
+## Nim Game
+|  |
+| ------- |
+| [2029-stone-game-ix](https://github.com/Bhakti6377/Leetcode-/tree/master/2029-stone-game-ix) |
 <!---LeetCode Topics End-->
