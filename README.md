@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0012-integer-to-roman](https://github.com/Bhakti6377/Leetcode-/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Bhakti6377/Leetcode-/tree/master/0013-roman-to-integer) |
+| [0067-add-binary](https://github.com/Bhakti6377/Leetcode-/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/Bhakti6377/Leetcode-/tree/master/0070-climbing-stairs) |
 | [0357-count-numbers-with-unique-digits](https://github.com/Bhakti6377/Leetcode-/tree/master/0357-count-numbers-with-unique-digits) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Bhakti6377/Leetcode-/tree/master/0628-maximum-product-of-three-numbers) |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Bhakti6377/Leetcode-/tree/master/0067-add-binary) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Bhakti6377/Leetcode-/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Bhakti6377/Leetcode-/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Divide and Conquer
@@ -139,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Bhakti6377/Leetcode-/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0049-group-anagrams](https://github.com/Bhakti6377/Leetcode-/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/Bhakti6377/Leetcode-/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/Bhakti6377/Leetcode-/tree/master/0067-add-binary) |
 | [0139-word-break](https://github.com/Bhakti6377/Leetcode-/tree/master/0139-word-break) |
 | [0151-reverse-words-in-a-string](https://github.com/Bhakti6377/Leetcode-/tree/master/0151-reverse-words-in-a-string) |
 | [0520-detect-capital](https://github.com/Bhakti6377/Leetcode-/tree/master/0520-detect-capital) |
@@ -274,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Bhakti6377/Leetcode-/tree/master/0067-add-binary) |
 | [1386-cinema-seat-allocation](https://github.com/Bhakti6377/Leetcode-/tree/master/1386-cinema-seat-allocation) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Bhakti6377/Leetcode-/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Bhakti6377/Leetcode-/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
