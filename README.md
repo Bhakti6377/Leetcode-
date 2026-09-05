@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Bhakti6377/Leetcode-/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Bhakti6377/Leetcode-/tree/master/3875-construct-uniform-parity-array-i) |
 | [3903-smallest-stable-index-i](https://github.com/Bhakti6377/Leetcode-/tree/master/3903-smallest-stable-index-i) |
+| [3904-smallest-stable-index-ii](https://github.com/Bhakti6377/Leetcode-/tree/master/3904-smallest-stable-index-ii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -257,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/Bhakti6377/Leetcode-/tree/master/1140-stone-game-ii) |
 | [1872-stone-game-viii](https://github.com/Bhakti6377/Leetcode-/tree/master/1872-stone-game-viii) |
 | [3903-smallest-stable-index-i](https://github.com/Bhakti6377/Leetcode-/tree/master/3903-smallest-stable-index-i) |
+| [3904-smallest-stable-index-ii](https://github.com/Bhakti6377/Leetcode-/tree/master/3904-smallest-stable-index-ii) |
 ## Game Theory
 |  |
 | ------- |
