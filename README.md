@@ -147,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Bhakti6377/Leetcode-/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/Bhakti6377/Leetcode-/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/Bhakti6377/Leetcode-/tree/master/0067-add-binary) |
+| [0115-distinct-subsequences](https://github.com/Bhakti6377/Leetcode-/tree/master/0115-distinct-subsequences) |
 | [0139-word-break](https://github.com/Bhakti6377/Leetcode-/tree/master/0139-word-break) |
 | [0151-reverse-words-in-a-string](https://github.com/Bhakti6377/Leetcode-/tree/master/0151-reverse-words-in-a-string) |
 | [0520-detect-capital](https://github.com/Bhakti6377/Leetcode-/tree/master/0520-detect-capital) |
@@ -187,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0055-jump-game](https://github.com/Bhakti6377/Leetcode-/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/Bhakti6377/Leetcode-/tree/master/0070-climbing-stairs) |
+| [0115-distinct-subsequences](https://github.com/Bhakti6377/Leetcode-/tree/master/0115-distinct-subsequences) |
 | [0139-word-break](https://github.com/Bhakti6377/Leetcode-/tree/master/0139-word-break) |
 | [0357-count-numbers-with-unique-digits](https://github.com/Bhakti6377/Leetcode-/tree/master/0357-count-numbers-with-unique-digits) |
 | [1140-stone-game-ii](https://github.com/Bhakti6377/Leetcode-/tree/master/1140-stone-game-ii) |
