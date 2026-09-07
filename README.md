@@ -152,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/Bhakti6377/Leetcode-/tree/master/0151-reverse-words-in-a-string) |
 | [0520-detect-capital](https://github.com/Bhakti6377/Leetcode-/tree/master/0520-detect-capital) |
 | [0680-valid-palindrome-ii](https://github.com/Bhakti6377/Leetcode-/tree/master/0680-valid-palindrome-ii) |
+| [0940-distinct-subsequences-ii](https://github.com/Bhakti6377/Leetcode-/tree/master/0940-distinct-subsequences-ii) |
 | [1927-sum-game](https://github.com/Bhakti6377/Leetcode-/tree/master/1927-sum-game) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Bhakti6377/Leetcode-/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Bhakti6377/Leetcode-/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
@@ -191,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0115-distinct-subsequences](https://github.com/Bhakti6377/Leetcode-/tree/master/0115-distinct-subsequences) |
 | [0139-word-break](https://github.com/Bhakti6377/Leetcode-/tree/master/0139-word-break) |
 | [0357-count-numbers-with-unique-digits](https://github.com/Bhakti6377/Leetcode-/tree/master/0357-count-numbers-with-unique-digits) |
+| [0940-distinct-subsequences-ii](https://github.com/Bhakti6377/Leetcode-/tree/master/0940-distinct-subsequences-ii) |
 | [1140-stone-game-ii](https://github.com/Bhakti6377/Leetcode-/tree/master/1140-stone-game-ii) |
 | [1563-stone-game-v](https://github.com/Bhakti6377/Leetcode-/tree/master/1563-stone-game-v) |
 | [1872-stone-game-viii](https://github.com/Bhakti6377/Leetcode-/tree/master/1872-stone-game-viii) |
