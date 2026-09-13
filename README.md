@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Bhakti6377/Leetcode-/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Bhakti6377/Leetcode-/tree/master/0219-contains-duplicate-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Bhakti6377/Leetcode-/tree/master/0628-maximum-product-of-three-numbers) |
+| [0835-image-overlap](https://github.com/Bhakti6377/Leetcode-/tree/master/0835-image-overlap) |
 | [0912-sort-an-array](https://github.com/Bhakti6377/Leetcode-/tree/master/0912-sort-an-array) |
 | [1140-stone-game-ii](https://github.com/Bhakti6377/Leetcode-/tree/master/1140-stone-game-ii) |
 | [1386-cinema-seat-allocation](https://github.com/Bhakti6377/Leetcode-/tree/master/1386-cinema-seat-allocation) |
@@ -213,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/Bhakti6377/Leetcode-/tree/master/0036-valid-sudoku) |
+| [0835-image-overlap](https://github.com/Bhakti6377/Leetcode-/tree/master/0835-image-overlap) |
 ## Memoization
 |  |
 | ------- |
