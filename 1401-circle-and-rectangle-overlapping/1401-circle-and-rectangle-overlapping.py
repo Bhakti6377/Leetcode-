@@ -10,4 +10,4 @@ class Solution:
         dy = closestY - yCenter
 
         # Check if the point lies inside the circle
-        return dx * dx + dy * dy <= radius * radius       
+        return dx * dx + dy * dy <= radius * radius
