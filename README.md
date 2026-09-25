@@ -163,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/Bhakti6377/Leetcode-/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Bhakti6377/Leetcode-/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Bhakti6377/Leetcode-/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0022-generate-parentheses](https://github.com/Bhakti6377/Leetcode-/tree/master/0022-generate-parentheses) |
 | [0049-group-anagrams](https://github.com/Bhakti6377/Leetcode-/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/Bhakti6377/Leetcode-/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/Bhakti6377/Leetcode-/tree/master/0067-add-binary) |
@@ -217,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Bhakti6377/Leetcode-/tree/master/0022-generate-parentheses) |
 | [0055-jump-game](https://github.com/Bhakti6377/Leetcode-/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/Bhakti6377/Leetcode-/tree/master/0070-climbing-stairs) |
 | [0115-distinct-subsequences](https://github.com/Bhakti6377/Leetcode-/tree/master/0115-distinct-subsequences) |
@@ -235,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Bhakti6377/Leetcode-/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0022-generate-parentheses](https://github.com/Bhakti6377/Leetcode-/tree/master/0022-generate-parentheses) |
 | [0357-count-numbers-with-unique-digits](https://github.com/Bhakti6377/Leetcode-/tree/master/0357-count-numbers-with-unique-digits) |
 | [1096-brace-expansion-ii](https://github.com/Bhakti6377/Leetcode-/tree/master/1096-brace-expansion-ii) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Bhakti6377/Leetcode-/tree/master/3348-smallest-divisible-digit-product-ii) |
@@ -367,4 +370,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1096-brace-expansion-ii](https://github.com/Bhakti6377/Leetcode-/tree/master/1096-brace-expansion-ii) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/Bhakti6377/Leetcode-/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
