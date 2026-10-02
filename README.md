@@ -117,15 +117,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Bhakti6377/Leetcode-/tree/master/0023-merge-k-sorted-lists) |
 | [0912-sort-an-array](https://github.com/Bhakti6377/Leetcode-/tree/master/0912-sort-an-array) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Bhakti6377/Leetcode-/tree/master/0023-merge-k-sorted-lists) |
 | [0912-sort-an-array](https://github.com/Bhakti6377/Leetcode-/tree/master/0912-sort-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Bhakti6377/Leetcode-/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Merge Sort
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Bhakti6377/Leetcode-/tree/master/0023-merge-k-sorted-lists) |
 | [0912-sort-an-array](https://github.com/Bhakti6377/Leetcode-/tree/master/0912-sort-an-array) |
 ## Bucket Sort
 |  |
@@ -146,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Bhakti6377/Leetcode-/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/Bhakti6377/Leetcode-/tree/master/0021-merge-two-sorted-lists) |
+| [0023-merge-k-sorted-lists](https://github.com/Bhakti6377/Leetcode-/tree/master/0023-merge-k-sorted-lists) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Bhakti6377/Leetcode-/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0142-linked-list-cycle-ii](https://github.com/Bhakti6377/Leetcode-/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Bhakti6377/Leetcode-/tree/master/0160-intersection-of-two-linked-lists) |
@@ -383,4 +387,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Bhakti6377/Leetcode-/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Bhakti6377/Leetcode-/tree/master/0022-generate-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Bhakti6377/Leetcode-/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
+## Tournament Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Bhakti6377/Leetcode-/tree/master/0023-merge-k-sorted-lists) |
 <!---LeetCode Topics End-->
