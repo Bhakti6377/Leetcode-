@@ -20,4 +20,5 @@ class Solution:
         if len(l) == 0:
             return True
 
-        return False
+        else:
+            return False
