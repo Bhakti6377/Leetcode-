@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3524-find-x-value-of-array-i](https://github.com/Bhakti6377/Leetcode-/tree/master/3524-find-x-value-of-array-i) |
 | [3527-find-the-most-common-response](https://github.com/Bhakti6377/Leetcode-/tree/master/3527-find-the-most-common-response) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Bhakti6377/Leetcode-/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Bhakti6377/Leetcode-/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Bhakti6377/Leetcode-/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3731-find-missing-elements](https://github.com/Bhakti6377/Leetcode-/tree/master/3731-find-missing-elements) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Bhakti6377/Leetcode-/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2333-minimum-sum-of-squared-difference](https://github.com/Bhakti6377/Leetcode-/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Bhakti6377/Leetcode-/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3536-maximum-product-of-two-digits](https://github.com/Bhakti6377/Leetcode-/tree/master/3536-maximum-product-of-two-digits) |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Bhakti6377/Leetcode-/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3731-find-missing-elements](https://github.com/Bhakti6377/Leetcode-/tree/master/3731-find-missing-elements) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Bhakti6377/Leetcode-/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Math
@@ -242,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Bhakti6377/Leetcode-/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Bhakti6377/Leetcode-/tree/master/3483-unique-3-digit-even-numbers) |
 | [3527-find-the-most-common-response](https://github.com/Bhakti6377/Leetcode-/tree/master/3527-find-the-most-common-response) |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Bhakti6377/Leetcode-/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Bhakti6377/Leetcode-/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3731-find-missing-elements](https://github.com/Bhakti6377/Leetcode-/tree/master/3731-find-missing-elements) |
 ## Binary Search
