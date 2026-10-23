@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Bhakti6377/Leetcode-/tree/master/0001-two-sum) |
+| [0004-median-of-two-sorted-arrays](https://github.com/Bhakti6377/Leetcode-/tree/master/0004-median-of-two-sorted-arrays) |
 | [0015-3sum](https://github.com/Bhakti6377/Leetcode-/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Bhakti6377/Leetcode-/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/Bhakti6377/Leetcode-/tree/master/0031-next-permutation) |
@@ -136,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Bhakti6377/Leetcode-/tree/master/0004-median-of-two-sorted-arrays) |
 | [0023-merge-k-sorted-lists](https://github.com/Bhakti6377/Leetcode-/tree/master/0023-merge-k-sorted-lists) |
 | [0912-sort-an-array](https://github.com/Bhakti6377/Leetcode-/tree/master/0912-sort-an-array) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Bhakti6377/Leetcode-/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
@@ -255,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Bhakti6377/Leetcode-/tree/master/0004-median-of-two-sorted-arrays) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Bhakti6377/Leetcode-/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Bhakti6377/Leetcode-/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Bhakti6377/Leetcode-/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
