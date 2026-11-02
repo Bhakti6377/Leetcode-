@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Bhakti6377/Leetcode-/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Bhakti6377/Leetcode-/tree/master/0219-contains-duplicate-ii) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Bhakti6377/Leetcode-/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Bhakti6377/Leetcode-/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Bhakti6377/Leetcode-/tree/master/0628-maximum-product-of-three-numbers) |
 | [0811-subdomain-visit-count](https://github.com/Bhakti6377/Leetcode-/tree/master/0811-subdomain-visit-count) |
 | [0835-image-overlap](https://github.com/Bhakti6377/Leetcode-/tree/master/0835-image-overlap) |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Bhakti6377/Leetcode-/tree/master/0049-group-anagrams) |
 | [0088-merge-sorted-array](https://github.com/Bhakti6377/Leetcode-/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/Bhakti6377/Leetcode-/tree/master/0217-contains-duplicate) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Bhakti6377/Leetcode-/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Bhakti6377/Leetcode-/tree/master/0628-maximum-product-of-three-numbers) |
 | [0912-sort-an-array](https://github.com/Bhakti6377/Leetcode-/tree/master/0912-sort-an-array) |
 | [1096-brace-expansion-ii](https://github.com/Bhakti6377/Leetcode-/tree/master/1096-brace-expansion-ii) |
@@ -97,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/Bhakti6377/Leetcode-/tree/master/0070-climbing-stairs) |
 | [0357-count-numbers-with-unique-digits](https://github.com/Bhakti6377/Leetcode-/tree/master/0357-count-numbers-with-unique-digits) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Bhakti6377/Leetcode-/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Bhakti6377/Leetcode-/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0509-fibonacci-number](https://github.com/Bhakti6377/Leetcode-/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Bhakti6377/Leetcode-/tree/master/0628-maximum-product-of-three-numbers) |
 | [0836-rectangle-overlap](https://github.com/Bhakti6377/Leetcode-/tree/master/0836-rectangle-overlap) |
