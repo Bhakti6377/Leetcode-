@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0835-image-overlap](https://github.com/Bhakti6377/Leetcode-/tree/master/0835-image-overlap) |
 | [0912-sort-an-array](https://github.com/Bhakti6377/Leetcode-/tree/master/0912-sort-an-array) |
 | [1140-stone-game-ii](https://github.com/Bhakti6377/Leetcode-/tree/master/1140-stone-game-ii) |
+| [1267-count-servers-that-communicate](https://github.com/Bhakti6377/Leetcode-/tree/master/1267-count-servers-that-communicate) |
 | [1386-cinema-seat-allocation](https://github.com/Bhakti6377/Leetcode-/tree/master/1386-cinema-seat-allocation) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Bhakti6377/Leetcode-/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Bhakti6377/Leetcode-/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
@@ -178,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0811-subdomain-visit-count](https://github.com/Bhakti6377/Leetcode-/tree/master/0811-subdomain-visit-count) |
 | [0912-sort-an-array](https://github.com/Bhakti6377/Leetcode-/tree/master/0912-sort-an-array) |
+| [1267-count-servers-that-communicate](https://github.com/Bhakti6377/Leetcode-/tree/master/1267-count-servers-that-communicate) |
 | [2029-stone-game-ix](https://github.com/Bhakti6377/Leetcode-/tree/master/2029-stone-game-ix) |
 | [3527-find-the-most-common-response](https://github.com/Bhakti6377/Leetcode-/tree/master/3527-find-the-most-common-response) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Bhakti6377/Leetcode-/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
@@ -313,6 +315,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0036-valid-sudoku](https://github.com/Bhakti6377/Leetcode-/tree/master/0036-valid-sudoku) |
 | [0835-image-overlap](https://github.com/Bhakti6377/Leetcode-/tree/master/0835-image-overlap) |
+| [1267-count-servers-that-communicate](https://github.com/Bhakti6377/Leetcode-/tree/master/1267-count-servers-that-communicate) |
 | [3665-twisted-mirror-path-count](https://github.com/Bhakti6377/Leetcode-/tree/master/3665-twisted-mirror-path-count) |
 ## Memoization
 |  |
@@ -353,6 +356,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [1267-count-servers-that-communicate](https://github.com/Bhakti6377/Leetcode-/tree/master/1267-count-servers-that-communicate) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Bhakti6377/Leetcode-/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [3310-remove-methods-from-project](https://github.com/Bhakti6377/Leetcode-/tree/master/3310-remove-methods-from-project) |
 ## Breadth-First Search
@@ -360,6 +364,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0301-remove-invalid-parentheses](https://github.com/Bhakti6377/Leetcode-/tree/master/0301-remove-invalid-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/Bhakti6377/Leetcode-/tree/master/1096-brace-expansion-ii) |
+| [1267-count-servers-that-communicate](https://github.com/Bhakti6377/Leetcode-/tree/master/1267-count-servers-that-communicate) |
 | [3310-remove-methods-from-project](https://github.com/Bhakti6377/Leetcode-/tree/master/3310-remove-methods-from-project) |
 ## Graph Theory
 |  |
@@ -478,6 +483,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [1267-count-servers-that-communicate](https://github.com/Bhakti6377/Leetcode-/tree/master/1267-count-servers-that-communicate) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Bhakti6377/Leetcode-/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Binary Search Tree
 |  |
